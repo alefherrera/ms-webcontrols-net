@@ -1,0 +1,5 @@
+C:\Users\user\WebServices\AjaxServerControl\bin\Debug\AjaxServerControl.dll
+C:\Users\user\WebServices\AjaxServerControl\bin\Debug\AjaxServerControl.pdb
+C:\Users\user\WebServices\AjaxServerControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\WebServices\AjaxServerControl\obj\Debug\AjaxServerControl.dll
+C:\Users\user\WebServices\AjaxServerControl\obj\Debug\AjaxServerControl.pdb
